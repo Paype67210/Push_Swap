@@ -1,5 +1,5 @@
 <picture>
-<img alt="Entête du dépôt ft_push_swap." src="https://github.com/Paype67210/Push_Swap/blob/main/Tools/cover-push_swap.png">
+<img alt="Entête du dépôt ft_push_swap." src="https://github.com/Paype67210/Push_Swap_42_Mulhouse/blob/main/Tools/cover-push_swap.png">
 </picture>
 
 5<sup>ème</sup> projet développé dans le cursus de 42, Push_Swap est aussi l'occasion de se frotter a la problematyique des algorythmes de tri des donnees.
